@@ -1,4 +1,4 @@
-name: testspayments
+name: tests-payments
 
 on:
   pull_request
